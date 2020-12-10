@@ -1,0 +1,75 @@
+
+
+.DivIconeClient{
+
+    height: 100px;
+    width: 100px;
+    border-radius: 60px;
+    background-color: gray;
+    text-align: center;
+    align-content: center;
+    background-image: url('https://www.pinclipart.com/picdir/middle/178-1789203_user-icon-png-white-printer-logic-client-download.png') no-repeat;
+    background-size: 100%;
+    margin: 20px;
+}
+
+.IconeCLient{
+   height: 300px !important;
+}
+
+.DivInfosClient{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.SingleClientInfo{
+    margin: 10px 15px;
+}
+
+.divDesButtons{
+    margin-top: 30px;
+}
+
+.MonButon{
+    border-radius: 10px !important;
+    margin: 5px;
+}
+
+.modal {
+ border-radius: 5px !important;
+}
+
+.close{
+    color: white !important;
+    opacity: 1 !important;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+
+}
+
+.MymodalHeader{
+    background-color: #363636 !important;
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+  
+
+}
+
+
+.InputAndLabelDiv{
+     margin-bottom: 20px ;
+}
+
+.InputLabel{
+   font-weight: bold;
+
+}
+
+.MyInput{
+    width: 90%;
+    margin-left: 15px;
+    height: 40px !important;
+    border-radius: 5px !important;
+    border: solid 1px grey !important;
+
+}
